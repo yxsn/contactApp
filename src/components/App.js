@@ -7,9 +7,9 @@ import './App.css';
 function App() {
   return (
     <div>
-      <Header></Header>
-      <AddContact></AddContact>
-      <ContactList></ContactList>
+      <Header/>
+      {/* <AddContact/>
+      <ContactList/> */}
     </div>
   );
 }

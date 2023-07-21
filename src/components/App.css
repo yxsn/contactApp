@@ -6,5 +6,7 @@
     line-height: 50px;
     height: 50px;
 }
-.addcontactUI{
+.field{
+    display: flex;
+    flex-direction: column;
 }

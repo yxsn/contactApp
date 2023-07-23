@@ -1,17 +1,16 @@
 .ui-container-centre{
-    background-color:black;
-    color: antiquewhite;
-    text-align: center;
-    vertical-align: middle;
-    line-height: 50px;
-    height: 50px;
+    border-bottom:3px solid rgb(204, 198, 198);
+    color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+
 }
 .field{
     display: flex;
     flex-direction: column;
 }
 #contactInput{
-    margin-top: 10px;
+    margin-top: 5px;
     margin-bottom: 15px;
     padding: 10px;
     margin-right: 75%;
@@ -20,6 +19,18 @@ h3{
     font-family:Arial, Helvetica, sans-serif;
 }
 .addContactForm{
-    font-size: 110%;
+    font-size: 90%;
     font-family:Arial, Helvetica, sans-serif;
+}
+.addContactButton{
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 10%;
+    border-style: none;
+    color:white;
+    font-size:90%;
+    background-color:rgb(70, 70, 251);
+    
+
 }

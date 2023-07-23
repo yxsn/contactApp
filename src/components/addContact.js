@@ -18,6 +18,7 @@ import React from "react";
                         <label>Mobile</label>
                         <input type="text" id="contactInput" name="mobile" placeholder="Mobile"/>
                     </div>
+                    <button className="addContactButton">Add</button>
                 </form>
             </div>
         )

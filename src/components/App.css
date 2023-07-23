@@ -12,7 +12,14 @@
 }
 #contactInput{
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
     padding: 10px;
     margin-right: 75%;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.addContactForm{
+    font-size: 110%;
+    font-family:Arial, Helvetica, sans-serif;
 }

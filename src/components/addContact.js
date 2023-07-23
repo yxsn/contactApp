@@ -8,15 +8,15 @@ import React from "react";
                 <form className="addContactForm">
                     <div className="field">
                         <label>Name</label>
-                        <input type="text" name="name" placeholder="Name"/>
+                        <input type="text" id="contactInput" name="name" placeholder="Name"/>
                     </div>
                     <div className="field">
                         <label>Email</label>
-                        <input type="text" name="email" placeholder="Email"/>
+                        <input type="text" id="contactInput" name="email" placeholder="Email"/>
                     </div>
                     <div className="field">
                         <label>Mobile</label>
-                        <input type="text" name="mobile" placeholder="Mobile"/>
+                        <input type="text" id="contactInput" name="mobile" placeholder="Mobile"/>
                     </div>
                 </form>
             </div>

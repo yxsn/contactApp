@@ -34,3 +34,26 @@ h3{
 .celledList{
     margin-top: 50px;
 }
+.item{
+    display: flex;
+    flex-direction: row;
+    border-top: 2px solid rgb(204, 198, 198);
+    font-size: 90%;
+    font-family:Arial, Helvetica, sans-serif;
+}
+.trashicon{
+    height:1%;
+    width: 1%;
+    align-self: center;
+    margin-left: auto;
+}
+.header{
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 5px;
+    padding-bottom:5px;
+    font-size: 17px;
+}
+.bottomborder{
+    border-top: 2px solid rgb(204, 198, 198);
+    align-self:flex-end;
+}
